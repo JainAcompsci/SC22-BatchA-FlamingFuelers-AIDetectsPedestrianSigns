@@ -1,18 +1,8 @@
-# Final Steps
-
-Do functionality check of frontend features on both webpages (try out all the buttons and links making sure they work properly)
-
-Implement backend features, specifically text to speech in results page
-
-Modify the backend code to have a confidence cutoff for predictions (maybe need 0.5 conf to show result)
-
-update readme
-
-Research other features that you guys are interested in - maybe a button to read out project description to user, or links to each of your githubs by clicking on your picture
-
 
 # Our Project - AI Detects Pedestrian Signs
-#### by: 
+#### By: 
+Ahana Mangla <br/>Sumedha Joshi <br/>Aastha Jain <br/>Christian Giron-Michel <br/>Karun Pai <br/>Kathy Nie
+
 
 ### Our Project's Purpose \+ Features
 
