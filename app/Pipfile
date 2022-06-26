@@ -6,7 +6,7 @@ name = "pypi"
 [packages]
 gunicorn = "*"
 Flask = "*"
-torch = "*"
+torch = {index = "pytorch", version = "==1.8.1+cpu"}
 
 [dev-packages]
 
